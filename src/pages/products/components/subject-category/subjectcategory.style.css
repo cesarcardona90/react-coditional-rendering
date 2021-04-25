@@ -1,0 +1,9 @@
+.subject-category-container{
+    width: 230px;
+    margin: 2% auto;
+    min-height: 5px;
+    border: 2px solid turquoise;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
